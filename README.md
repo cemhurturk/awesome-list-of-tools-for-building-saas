@@ -55,6 +55,10 @@ A curated list of essential tools and services for SaaS entrepreneurs and develo
 - Exclaidraw
 - Lucid
 
+## Laravel Packages
+
+- [Laravel Installer](https://laravel-installer.com/)
+
 ## Search
 
 - Elasticsearch
@@ -101,6 +105,7 @@ A curated list of essential tools and services for SaaS entrepreneurs and develo
 - New Relic
 - Sentry
 - Bugsnag
+- Hyperping
 
 ## Database
 
@@ -149,3 +154,14 @@ A curated list of essential tools and services for SaaS entrepreneurs and develo
 ## Design
 
 - Figma
+
+## UI
+
+- TailwindCSS
+- TailwindUI
+- Flowbite
+
+## SEO
+
+- MetaTags.io
+- [Favicon Generator](https://realfavicongenerator.net/svg-favicon/)
