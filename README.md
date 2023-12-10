@@ -165,3 +165,11 @@ A curated list of essential tools and services for SaaS entrepreneurs and develo
 
 - MetaTags.io
 - [Favicon Generator](https://realfavicongenerator.net/svg-favicon/)
+
+## Local Development Environment
+
+- Laravel Herd
+- DBNging
+- TablePlus
+- Docker
+- Laravel Sail
