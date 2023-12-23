@@ -82,7 +82,9 @@ A curated list of essential tools and services for SaaS entrepreneurs and develo
 
 - Sponsored videos
 - Ads
-- Affiliate links
+- Affiliate Marketing
+  - [ReferralMagic](https://referralmagic.co/)
+  - [Tolt](https://tolt.io/)
 - Email
 
 ## Hosting
